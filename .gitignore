@@ -1,0 +1,12 @@
+# Files in root
+Buck_Schematic.png
+fp-info-cache
+*.lck
+
+# For files in specific folders
+folder_name/*.txt
+folder_name/specific_file.ext
+
+# Entire folders
+folder_name/
+cache/
